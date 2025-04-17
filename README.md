@@ -3,7 +3,7 @@
 A full-featured PHP-based Library Management System for managing books, users, and loans. Built as part of an academic project using XAMPP, MySQL, and VS Code.
 
 <p align="center">
-  <img src="logo.png" alt="Codex Library Management System Logo" width="650">
+  <img src="logo.png" alt="Codex Library Management System Logo" width="700">
 </p>
 
 ---
